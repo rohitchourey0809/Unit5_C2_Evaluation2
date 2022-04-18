@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "first_name": "ROHIT",
+      "last_name": "CHOUREY",
+      "email": "rohit_fw15_206@masai.school",
+      "gender": "male",
+      "age": "25",
+      "tenth_score": "345",
+      "twelth_score": "444",
+      "preferred_branch": "commerce",
+      "id": 1
+    },
+    {
+      "first_name": "Kamal",
+      "last_name": "CHOUREY",
+      "email": "rohit_fw15_206@masai.school",
+      "gender": "male",
+      "age": "25",
+      "tenth_score": "345",
+      "twelth_score": "444",
+      "preferred_branch": "commerce",
+      "id": 2
+    },
+    {
+      "first_name": "mukesh",
+      "last_name": "CHOUREY",
+      "email": "rohit_fw15_206@masai.school",
+      "gender": "male",
+      "age": "35",
+      "tenth_score": "455",
+      "twelth_score": "433",
+      "preferred_branch": "",
+      "id": 3
+    },
+    {
+      "first_name": "ROHIT",
+      "last_name": "CHOUREY",
+      "email": "rohit_fw15_206@masai.school",
+      "gender": "male",
+      "age": "34",
+      "tenth_score": "234",
+      "twelth_score": "500",
+      "preferred_branch": "sports",
+      "id": 4
+    }
+  ]
+}
